@@ -1,0 +1,26 @@
+.form-row {
+    width: 20%;
+}
+.h2{
+    text-align: center;
+}
+.form-row{
+    width: 50%;
+}
+.button{
+    position:right;
+}
+.parallax {
+    /* mengambil gambar*/
+    background-image: url('gambar2/r\ o\ s\ i\ e.jpg');
+
+    /* tinggi gambar*/
+    height: 15%; 
+
+    /* parallax scroll */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(60%);
+    }

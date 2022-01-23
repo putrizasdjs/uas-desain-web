@@ -1,0 +1,37 @@
+.banner {
+    background: "gambar.jpeg"
+    no-repeat left;
+    background-size: 35%;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.isi{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    float: left;
+}
+.login{
+    padding: 0;
+    margin-left: 30px;
+    display: flex;
+    float: left;
+}
+.login .log{
+    padding: 0px ;
+    margin: 0;
+}
+.login .btn{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+
+}
+
+.login .sign{
+    padding: 0 px;
+    margin: 0;
+}
+.card-tittle{
+    text-align: right;
+}
